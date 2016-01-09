@@ -1,0 +1,6 @@
+<div class="jeden">odpowiedz nr jeden<input value="34" class="txt" type="text" name="txt"/></div>
+<div class="dwa">odpowiedz nr dwa<input value="28" class="txt" type="text" name="txt"/></div>
+<div class="trzy">odpowiedz nr trzy<input value="17" class="txt" type="text" name="txt"/></div>
+<div class="cztery">odpowiedz nr cztery<input value="13" class="txt" type="text" name="txt"/></div>
+<div class="piec">odpowiedz nr piec<input value="7" class="txt" type="text" name="txt"/></div>
+<div class="szesc">odpowiedz nr szesc<input value="1" class="txt" type="text" name="txt"/></div>
